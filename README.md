@@ -9,7 +9,7 @@ Descomprimimos el archivo que hemos descargado
 
 Ahora crearemos dos contenedores de docker con el comando:
 
-`for i in {1--2} ; do docker run -d -t ubuntu:14.04; done´
+`for i in {1--2} ; do docker run -d -t ubuntu:14.04; done`
 
 Ejecutaremos el siguiente comando
 
